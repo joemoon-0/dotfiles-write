@@ -1,0 +1,20 @@
+local opt = vim.opt
+
+opt.autoindent = true
+opt.backup = false
+opt.expandtab = true
+opt.hlsearch = true
+opt.ignorecase = true
+opt.incsearch = true
+opt.nu = true
+opt.relativenumber = true
+opt.shiftwidth = 4
+opt.smartcase = true
+opt.smartindent = true
+opt.smarttab = true
+opt.softtabstop = 4
+opt.swapfile = false
+opt.tabstop = 4
+opt.termguicolors = true
+opt.updatetime = 50
+opt.wrap = false

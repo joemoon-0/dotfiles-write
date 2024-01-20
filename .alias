@@ -1,0 +1,14 @@
+alias vb="vim ~/.bashrc"
+alias sb="source ~/.bashrc"
+
+alias vz="vim ~/.zshrc"
+alias sz="source ~/.zshrc"
+
+alias ll='ls -lah'
+
+alias gs='git status'
+alias gd='git diff'
+alias gds='git diff --staged'
+alias gsp='git show -p'
+alias gl='git log'
+alias gll='git log --oneline --decorate --all --graph'
